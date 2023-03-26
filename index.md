@@ -17,8 +17,6 @@ Arquivos dos slides usados em aula:
 - [CA01 - Limite e Continuidade](materiais/CA01_Limite_Continuidade.pdf)
 - [CA02 - Derivada](materiais/CA02_Derivadas.pdf)
 - [CA03 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
-- [Trabalho - Método de Newton e Equação de Malthus](materiais/Trabalho1.pdf)
-- [Método de Newton](materiais/MetodoNewton.pdf)
 - [CA04 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
 - [CA05 - Integral Definida](materiais/CA05_Integral_Definida.pdf) 
 
