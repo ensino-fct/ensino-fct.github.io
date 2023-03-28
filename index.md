@@ -24,10 +24,11 @@ Arquivos dos slides usados em aula:
 
 ## Cálculo I
 - [CA01 - Limite e Continuidade](materiais/CA01_Limite_Continuidade.pdf)
-- [CA02 - Derivada](materiais/CA02_Derivadas.pdf)
-- [CA03 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
-- [CA04 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
-- [CA05 - Integral Definida](materiais/CA05_Integral_Definida.pdf) 
+- [CA02 - Funções Logaritmicas e Exponenciais](materiais/CA02_Funcoes_Logaritmicas_Exponenciais.pdf)
+- [CA03 - Derivada](materiais/CA02_Derivadas.pdf)
+- [CA04 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
+- [CA05 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
+- [CA06 - Integral Definida](materiais/CA05_Integral_Definida.pdf) 
 
 # Listas de Exercícios
 Arquivos das listas de exercícios:
