@@ -5,7 +5,7 @@ As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas
 Email para contato: [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br).
 
 # Planos de Ensino
-Os planos de ensino estão divididos por curso:
+Os planos de ensino estão divididos por cursos:
 
 ## Cálculo I
 - [Engenharia Ambiental](materiais/Plano_Ensino_CalculoI_EngAmbiental.pdf)
