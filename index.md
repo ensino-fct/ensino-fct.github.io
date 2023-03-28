@@ -4,6 +4,15 @@ As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas
 # Contato
 Email para contato: [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br).
 
+# Planos de Ensino
+Os planos de ensino estão divididos por cursos:
+
+## Cálculo I
+- [Engenharia Ambiental](materiais/Plano_Ensino_CalculoI_EngAmbiental.pdf)
+- [Estatística](materiais/Plano_Ensino_CalculoI_Estatistica.pdf)
+- [Química](materiais/Plano_Ensino_CalculoI_LicQuimica.pdf)
+- [Física](materiais/Plano_Ensino_CalculoI_LicFisica.pdf)
+
 # Notas de Aula
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas foram escritas pelo professor Irineu Palhares.
 
@@ -13,7 +22,7 @@ Arquivo das Notas de Aula:
 # Slides
 Arquivos dos slides usados em aula:
 
-## Cálculo
+## Cálculo I
 - [CA01 - Limite e Continuidade](materiais/CA01_Limite_Continuidade.pdf)
 - [CA02 - Derivada](materiais/CA02_Derivadas.pdf)
 - [CA03 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
@@ -23,7 +32,7 @@ Arquivos dos slides usados em aula:
 # Listas de Exercícios
 Arquivos das listas de exercícios:
 
-## Cálculo
+## Cálculo I
 - [CA01 - Limite e Continuidade](materiais/CA01_Lista_Limite_Continuidade.pdf)
 - [CA02 - Derivadas](materiais/CA02_Lista_Derivadas.pdf)
 - [CA03 - Aplicações das derivadas](materiais/CA03_Lista_Aplicacoes_Derivada.pdf)
@@ -33,7 +42,7 @@ Arquivos das listas de exercícios:
 
 # Monitorias
 
-## Cálculo
+## Cálculo I
 
 Horários de atendimento:
 
