@@ -49,14 +49,12 @@ Horários de atendimento:
 
 |              | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
 |--------------|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
-| M12          |         |          |        |          |          |        |
-| M34          |         |          |        |          |          |        |
-| M56          |         |          |        |          |          |        |
-| 14:00--16:00 |         | Nathan (Local: Lab. Isaac Newt.)          | Nathan (Local: Lab. Isaac Newt.)        |          |          |        |
-| T34          |         |          |        |          |          |        |
-| T56          |         |          |        |          |          |        |
-| 18:00--20:00 |         |          |        |          |          |        |
-| N34          |         |          |        |          |          |        |
+| 07:00--09:00 |         |          |        |          |          |        |
+| 09:00--11:00 |         |          |        |          |          |        |
+| 14:00--16:00 |         | Nathan (Lab. Isaac Newt.) | Nathan (Lab. Isaac Newt.) |          |          |        |
+| 16:00--18:00 |         |          |        |          |          |        |
+| 18:00--20:00 |         |          |        | Gabriel (Lab. Isaac Newt.) | Gabriel (Lab. Isaac Newt.) |        |
+| 20:00--22:00 |         |          |        |          |          |        |
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
