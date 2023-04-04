@@ -47,7 +47,7 @@ Arquivos das listas de exercícios:
 
 Horários de atendimento:
 
-|              | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
+| Horários     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
 |--------------|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
 | 07:00--09:00 |         |          |        |          |          |        |
 | 09:00--11:00 |         |          |        |          |          |        |
