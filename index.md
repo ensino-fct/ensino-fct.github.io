@@ -53,7 +53,7 @@ Horários de atendimento:
 | 09:00--11:00 |         |          |        |          |          |        |
 | 14:00--15:30 |         | Nathan (Sala 11, Disc. 1) | Nathan (Sala 11, Disc. 1) |          |          |        |
 | 16:00--18:00 |         |          |        |          |          |        |
-| 18:00--19:30 |         |          |        | Gabriel (Sala 11, Disc. 1) | Gabriel (Sala 11, Disc. 1) |        |
+| 18:00--19:30 |         |          |        | Gabriel (Sala 24, Disc. 1) | Gabriel (Sala 24, Disc. 1) |        |
 | 20:00--22:00 |         |          |        |          |          |        |
 
 --- -->
