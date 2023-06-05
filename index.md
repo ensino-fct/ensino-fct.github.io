@@ -36,7 +36,7 @@ Arquivos das listas de exercícios:
 ## Cálculo I
 - [CA01 - Limite e Continuidade](materiais/CA01_Lista_Limite_Continuidade.pdf)
 - [CA02 - Derivadas](materiais/CA02_Lista_Derivadas.pdf)
-- [CA03 - Aplicações das derivadas](materiais/CA03_Lista_Aplicacoes_Derivada.pdf)
+- [CA03 - Aplicações das derivadas](materiais/CA03_Lista_AplicacoesDerivada.pdf)
 - [CA04 - Integral Indefinida](materiais/Lista_Integral_Indefinida.pdf)
 - [CA05 - Integral Definida](materiais/CA05_Lista_Integral_Definida.pdf)
 
