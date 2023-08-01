@@ -13,6 +13,9 @@ Os planos de ensino estão divididos por cursos:
 - [Química](materiais/Plano_Ensino_CalculoI_LicQuimica.pdf)
 - [Física](materiais/Plano_Ensino_CalculoI_LicFisica.pdf)
 
+## Cálculo Numérico Avançado
+- [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
+- 
 # Notas de Aula
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas foram escritas pelo professor Irineu Palhares.
 
@@ -30,6 +33,14 @@ Arquivos dos slides usados em aula:
 - [CA05 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
 - [CA06 - Integral Definida](materiais/CA05_Integral_Definida.pdf) 
 
+## Cálculo Numérico Avançado
+- [CNA01 - Decomposições Matriciais](materiais/CA01_Limite_Continuidade.pdf)
+- [CNA02 - Métodos para Sistemas Lineares](materiais/CA02_Funcoes_Logaritmicas_Exponenciais.pdf)
+- [CNA03 - Cálculo de Autovalores e Autovetores](materiais/CA02_Derivadas.pdf)
+- [CNA04 - Problema de Valor Inicial](materiais/CA03_Aplicacoes_Derivada.pdf)
+- [CNA05 - Problema de Valor de Contorno](materiais/CA04_Integral_Indefinida.pdf)
+- [CNA06 - Método de Euler](materiais/CA05_Integral_Definida.pdf) 
+
 # Listas de Exercícios
 Arquivos das listas de exercícios:
 
@@ -40,6 +51,13 @@ Arquivos das listas de exercícios:
 - [CA04 - Integral Indefinida](materiais/Lista_Integral_Indefinida.pdf)
 - [CA05 - Integral Definida](materiais/CA05_Lista_Integral_Definida.pdf)
 
+## Cálculo Numérico Avançado
+- [CNA01 - Decomposições Matriciais](materiais/CA01_Limite_Continuidade.pdf)
+- [CNA02 - Métodos para Sistemas Lineares](materiais/CA02_Funcoes_Logaritmicas_Exponenciais.pdf)
+- [CNA03 - Cálculo de Autovalores e Autovetores](materiais/CA02_Derivadas.pdf)
+- [CNA04 - Problema de Valor Inicial](materiais/CA03_Aplicacoes_Derivada.pdf)
+- [CNA05 - Problema de Valor de Contorno](materiais/CA04_Integral_Indefinida.pdf)
+- [CNA06 - Método de Euler](materiais/CA05_Integral_Definida.pdf) 
 
 # Monitorias
 
@@ -55,6 +73,8 @@ Horários de atendimento:
 | 16:00--18:00 |         |          |        |          |          |        |
 | 18:00--19:30 |         |          |        | Gabriel (Sala 24, Disc. 1) | Gabriel (Sala 24, Disc. 1) |       |
 | 20:00--22:00 |         |          |        |          |          |        |
+
+## Cálculo Numérico Avançado
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
