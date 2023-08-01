@@ -39,12 +39,12 @@ Arquivos dos slides usados em aula:
 - [CA06 - Integral Definida](materiais/CA05_Integral_Definida.pdf) 
 
 ## Cálculo Numérico Avançado
-- [CNA01 - Decomposições Matriciais](materiais/CA01_Limite_Continuidade.pdf)
-- [CNA02 - Métodos para Sistemas Lineares](materiais/CA02_Funcoes_Logaritmicas_Exponenciais.pdf)
-- [CNA03 - Cálculo de Autovalores e Autovetores](materiais/CA02_Derivadas.pdf)
-- [CNA04 - Problema de Valor Inicial](materiais/CA03_Aplicacoes_Derivada.pdf)
-- [CNA05 - Problema de Valor de Contorno](materiais/CA04_Integral_Indefinida.pdf)
-- [CNA06 - Método de Euler](materiais/CA05_Integral_Definida.pdf) 
+- [CNA01 - Decomposições Matriciais](materiais/CNA01_DecomposicoesMatriciais.pdf)
+- [CNA02 - Métodos para Sistemas Lineares](materiais/CNA02_SistemasLineares.pdf)
+- [CNA03 - Cálculo de Autovalores e Autovetores](materiais/CNA03_AutovaloresAutovetores.pdf)
+- [CNA04 - Problema de Valor Inicial](materiais/CNA04_ProblemaValorInicial.pdf)
+- [CNA05 - Problema de Valor de Contorno](materiais/CNA05_ProblemaValorContorno.pdf)
+- [CNA06 - Método de Euler](materiais/CNA06_MetodoEuler.pdf) 
 
 # Listas de Exercícios
 Arquivos das listas de exercícios:
