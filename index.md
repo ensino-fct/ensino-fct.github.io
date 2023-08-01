@@ -15,7 +15,7 @@ Os planos de ensino estão divididos por cursos:
 
 ## Cálculo Numérico Avançado
 - [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
-- 
+
 # Notas de Aula
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas foram escritas pelo professor Irineu Palhares.
 
