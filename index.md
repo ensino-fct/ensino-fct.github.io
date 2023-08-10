@@ -47,10 +47,9 @@ Arquivos dos slides usados em aula:
 - [CNA06 - Método de Euler](materiais/CNA06_MetodoEuler.pdf) 
 
 # Programas
+## Cálculo Numérico Avançado
 - [Arquivo main](materiais/main.m)
 - [Decomposição LU](materiais/DecomposicaoLU.m)
-
-## Cálculo Numérico Avançado
 
 # Listas de Exercícios
 Arquivos das listas de exercícios:
