@@ -1,43 +1,33 @@
 function [L,U]=DecomposicaoLU(A)
-n=size(A,1);
 
-%Inicialização
-U=zeros(n,n);
-L=zeros(n,n);
-
+  n=size(A,1);
+  L=zeros(n,n);
+  U=zeros(n,n);
 
   for p=1:n
 
-    %Linhas de U
-    for k=p:n
-      soma = 0.0;
+    %Matriz U
+    for j=p:n
+      soma=0.0;
       if (p != 1)
-
-        for j=1:p-1
-          soma = soma + L(p,j)*U(j,k);
-        endfor
+        for k=1:p-1
+          soma = soma + L(p,k)*U(k,j);
+        end
       endif
-      U(p,k) = A(p,k) - soma;
+      U(p,j)=A(p,j)-soma;
     endfor
 
-     if (p != n)
-      %Colunas de L
-      for q=p+1:n
-        soma = 0.0;
-        for i=1:p-1
-          soma = soma + L(q,i)*U(i,p);
+    %Matriz L
+    if (p != n)
+      for i=p+1:n
+        soma=0.0;
+        for k=1:p-1
+          soma = soma + L(i,k)*U(k,p);
         endfor
-        L(q,p) = (A(q,p) - soma)/U(p,p);
+        L(i,p)=(A(i,p)-soma)/U(p,p);
       endfor
-
-     endif
-
-      %Diagonal principal de L
-      for (i=1:n)
-        L(i,i) = 1.0;
-      endfor
-
-
-  endfor%for de p
+    endif
+    L(p,p) = 1.0;
+  endfor%indice p
 
   endfunction
