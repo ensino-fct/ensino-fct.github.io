@@ -23,7 +23,7 @@ Os planos de ensino estão divididos por cursos:
 ## Cálculo II
 - [Matemática](https://docs.google.com/spreadsheets/d/1T_2eNy1mW-o7U_b4SCOwGr2zz3OBzprhR-U83gi-5W8/edit?usp=sharing)
 ## Cálculo Numérico
-- [Computação]([https://docs.google.com/spreadsheets/d/1T_2eNy1mW-o7U_b4SCOwGr2zz3OBzprhR-U83gi-5W8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1B2lAA0rlwt_po8Bm2QsSmVnt-_1g7HMgHZfXjdfU7p4/edit?usp=sharing))
+- [Computação](https://docs.google.com/spreadsheets/d/1B2lAA0rlwt_po8Bm2QsSmVnt-_1g7HMgHZfXjdfU7p4/edit?usp=sharing)
 ## Cálculo Numérico Avançado
 - [Matemática](https://docs.google.com/spreadsheets/d/1T_2eNy1mW-o7U_b4SCOwGr2zz3OBzprhR-U83gi-5W8/edit?usp=sharing)
   
