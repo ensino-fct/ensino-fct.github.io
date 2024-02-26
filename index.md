@@ -93,7 +93,6 @@ Horários de atendimento:
 | 18:00--19:30 |         |          |        | Gabriel (Sala 24, Disc. 1) | Gabriel (Sala 24, Disc. 1) |       |
 | 20:00--22:00 |         |          |        |          |          |        |
 
-## Cálculo Numérico Avançado
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
