@@ -21,7 +21,7 @@ Os planos de ensino estão divididos por cursos:
 ## Cálculo I
 - [Eng. Ambiental](https://docs.google.com/spreadsheets/d/1-OLb4F1MaYcXCKxslTXHwqO3mAi1h2TR82DYERmYUFk/edit?usp=sharing)
 ## Cálculo II
-- [Matemática](https://docs.google.com/spreadsheets/d/1T_2eNy1mW-o7U_b4SCOwGr2zz3OBzprhR-U83gi-5W8/edit?usp=sharing)
+- [Computação](https://docs.google.com/spreadsheets/d/1lQmVlplkcBpheGpbFPeq_Gdm-xMugR9FM-B_sVHDhd8/edit?usp=sharing)
 ## Cálculo Numérico
 - [Computação](https://docs.google.com/spreadsheets/d/1B2lAA0rlwt_po8Bm2QsSmVnt-_1g7HMgHZfXjdfU7p4/edit?usp=sharing)
 ## Cálculo Numérico Avançado
