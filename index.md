@@ -8,11 +8,14 @@ Email para contato: [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br).
 Os planos de ensino estão divididos por cursos:
 
 ## Cálculo I
-- [Engenharia Ambiental](materiais/Plano_Ensino_CalculoI_EngAmbiental.pdf)
+- [Engenharia Ambiental](materiais/PlanoEnsinoCalculo1EngAmb.pdf)
 - [Estatística](materiais/Plano_Ensino_CalculoI_Estatistica.pdf)
 - [Química](materiais/Plano_Ensino_CalculoI_LicQuimica.pdf)
 - [Física](materiais/Plano_Ensino_CalculoI_LicFisica.pdf)
-
+## Cálculo II
+- [Computação](materiais/PlanoEnsinoCalculo2Computacao.pdf)
+## Cálculo Numérico
+- [Computação](materiais/PlanoEnsinoCalculoNumericoComputacao.pdf)
 ## Cálculo Numérico Avançado
 - [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
 
