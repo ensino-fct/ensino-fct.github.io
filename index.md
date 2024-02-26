@@ -4,9 +4,9 @@ As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas
 # Contato
 Email para contato: [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br).
 
+
 # Planos de Ensino
 Os planos de ensino estão divididos por cursos:
-
 ## Cálculo I
 - [Engenharia Ambiental](materiais/PlanoEnsinoCalculo1EngAmb.pdf)
 - [Estatística](materiais/Plano_Ensino_CalculoI_Estatistica.pdf)
@@ -19,8 +19,8 @@ Os planos de ensino estão divididos por cursos:
 ## Cálculo Numérico Avançado
 - [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
 
-# Calendário
 
+# Calendário
 ## Cálculo I
 - [Eng. Ambiental](https://docs.google.com/spreadsheets/d/1-OLb4F1MaYcXCKxslTXHwqO3mAi1h2TR82DYERmYUFk/edit?usp=sharing)
 ## Cálculo II
@@ -32,13 +32,11 @@ Os planos de ensino estão divididos por cursos:
   
 # Notas de Aula
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas foram escritas pelo professor Irineu Palhares.
-
 Arquivo das Notas de Aula:
 - Notas de Aula - Cálculo: Consultar livros de Cálculo 1, tais como Guidorizzi, Stewart e Thomas.
 
 # Slides
 Arquivos dos slides usados em aula:
-
 ## Cálculo I
 - [CA01 - Limite e Continuidade](materiais/CA01_Limite_Continuidade.pdf)
 - [CA02 - Funções Logaritmicas e Exponenciais](materiais/CA02_Funcoes_Logaritmicas_Exponenciais.pdf)
@@ -46,7 +44,8 @@ Arquivos dos slides usados em aula:
 - [CA04 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
 - [CA05 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
 - [CA06 - Integral Definida](materiais/CA05_Integral_Definida.pdf) 
-
+## Cálculo II
+## Cálculo Numérico
 ## Cálculo Numérico Avançado
 - [CNA01 - Decomposições Matriciais](materiais/CNA01_DecomposicoesMatriciais.pdf)
 - [CNA02 - Métodos para Sistemas Lineares](materiais/CNA02_SistemasLineares.pdf)
@@ -64,14 +63,14 @@ Arquivos dos slides usados em aula:
 
 # Listas de Exercícios
 Arquivos das listas de exercícios:
-
 ## Cálculo I
 - [CA01 - Limite e Continuidade](materiais/CA01_Lista_Limite_Continuidade.pdf)
 - [CA02 - Derivadas](materiais/CA02_Lista_Derivadas.pdf)
 - [CA03 - Aplicações das derivadas](materiais/CA03_Lista_AplicacoesDerivadas.pdf)
 - [CA04 - Integral Indefinida](materiais/Lista_Integral_Indefinida.pdf)
 - [CA05 - Integral Definida](materiais/CA05_Lista_Integral_Definida.pdf)
-
+## Cálculo II
+## Cálculo Numérico
 ## Cálculo Numérico Avançado
 - [CNA01 - Decomposições Matriciais](materiais/CNA01_Lista_DecomposicoesMatriciais.pdf)
 - [CNA02 - Métodos para Sistemas Lineares](materiais/CNA02_Lista_SistemasLineares.pdf)
@@ -81,7 +80,6 @@ Arquivos das listas de exercícios:
 - [CNA06 - Método de Euler](materiais/CNA06_Lista_MetodoEuler.pdf)
 
 # Monitorias
-
 ## Cálculo I
 
 Horários de atendimento:
