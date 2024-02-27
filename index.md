@@ -15,8 +15,10 @@ Os planos de ensino estão divididos por cursos:
   
 ## Cálculo II
 - [Computação](materiais/PlanoEnsinoCalculo2Computacao.pdf)
+  
 ## Cálculo Numérico
 - [Computação](materiais/PlanoEnsinoCalculoNumericoComputacao.pdf)
+  
 ## Cálculo Numérico Avançado
 - [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
 
