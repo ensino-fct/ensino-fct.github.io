@@ -6,7 +6,7 @@ Email para contato: [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br).
 
 
 # Planos de Ensino
-Os planos de ensino estão divididos por cursos:
+Os planos de ensino estão divididos por disciplinas e cursos:
 ## Cálculo I
 - [Engenharia Ambiental](materiais/PlanoEnsinoCalculo1EngAmb.pdf)
 - [Estatística](materiais/Plano_Ensino_CalculoI_Estatistica.pdf)
