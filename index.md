@@ -12,6 +12,7 @@ Os planos de ensino estão divididos por cursos:
 - [Estatística](materiais/Plano_Ensino_CalculoI_Estatistica.pdf)
 - [Química](materiais/Plano_Ensino_CalculoI_LicQuimica.pdf)
 - [Física](materiais/Plano_Ensino_CalculoI_LicFisica.pdf)
+  
 ## Cálculo II
 - [Computação](materiais/PlanoEnsinoCalculo2Computacao.pdf)
 ## Cálculo Numérico
