@@ -71,6 +71,7 @@ Arquivos dos slides usados em aula:
 - [Sistema Triangular Inferior](materiais/SistemaTriangularInferior.m)
 - [Sistema Triangular Superior](materiais/SistemaTriangularSuperior.m)
 
+
 # Listas de Exercícios
 Arquivos das listas de exercícios:
 ## Cálculo I
@@ -83,6 +84,7 @@ Arquivos das listas de exercícios:
 ## Cálculo II
 
 ## Cálculo Numérico
+- [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
 
 ## Cálculo Numérico Avançado
 - [CNA01 - Decomposições Matriciais](materiais/CNA01_Lista_DecomposicoesMatriciais.pdf)
