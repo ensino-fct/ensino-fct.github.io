@@ -56,7 +56,7 @@ Arquivos dos slides usados em aula:
 - [CA06 - Integral Definida](materiais/CA05_Integral_Definida.pdf)
   
 ## Cálculo Numérico
-- [CA06 - Integral Definida](materiais/CN01_ConceitosBasicos.pdf)
+- [CN01 - Conceitos Básicos](materiais/CN01_ConceitosBasicos.pdf)
 
 ## Cálculo Numérico Avançado
 - [CNA01 - Decomposições Matriciais](materiais/CNA01_DecomposicoesMatriciais.pdf)
