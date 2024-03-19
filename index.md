@@ -58,6 +58,7 @@ Arquivos dos slides usados em aula:
 ## Cálculo Numérico
 - [CN01 - Conceitos Básicos](materiais/CN01_ConceitosBasicos.pdf)
 - [CN02 - Resolução de Equações Algébricas](materiais/CN02_ResolucaoEquacoesAlgebricas.pdf)
+- [CN03 - Solução de Sistemas Lineares](materiais/CN03_SistemasLineares.pdf)
 
 ## Cálculo Numérico Avançado
 - [CNA01 - Decomposições Matriciais](materiais/CNA01_DecomposicoesMatriciais.pdf)
