@@ -71,6 +71,12 @@ Arquivos dos slides usados em aula:
 # Programas
 ## Cálculo Numérico Avançado
 - [Arquivo main](materiais/main.m)
+- [Decomposição LU](materiais/LUdecomposition.m)
+- [Sistema Triangular Inferior](materiais/SistemaTriangularInferior.m)
+- [Sistema Triangular Superior](materiais/SistemaTriangularSuperior.m)
+
+## Cálculo Numérico Avançado
+- [Arquivo main](materiais/main.m)
 - [Decomposição LU](materiais/DecomposicaoLU.m)
 - [Sistema Triangular Inferior](materiais/SistemaTriangularInferior.m)
 - [Sistema Triangular Superior](materiais/SistemaTriangularSuperior.m)
