@@ -1,16 +1,17 @@
-function x=SistemaTriangularInferior(A,b)
+function x=SistemaTriangularInferior(A, b)
 
-n=size(A,1);
-x(1) = b(1)/A(1,1);
 
-  for i=2:n
-    soma=0.0;
+  n = length(A);
+  x = zeros(n,1);
+  x(1) = b(1)/A(1,1);
 
-      for k=1:i-1
-        soma = soma + A(i,k)*x(k);
-      endfor
+    for k=2:n
+      somatorio=0.0;
+        for i=1:k-1
+          somatorio = somatorio + A(k, i)*x(i);
+        endfor
+        x(k) = (b(k) - somatorio)/A(k,k);
+    endfor
 
-    x(i)=(b(i) - soma)/A(i,i);
-  endfor
 
   endfunction

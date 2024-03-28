@@ -1,17 +1,17 @@
-function x=SistemaTriangularSuperior(A,b)
+function x=SistemaTriangularSuperior(A, b)
 
-n=size(A,1);%Dimensao da matrix
 
-x(n) = b(n)/A(n,n);%Primeiro valor
+  n = length(A);
+  x = zeros(n,1);
+  x(n) = b(n)/A(n,n);
 
-  for i=1:n-1
-    soma=0.0;
+    for k=1:n-1
+      somatorio=0.0;
+        for i=(n-k)+1:n
+          somatorio = somatorio + A(n-k, i)*x(i);
+        endfor
+        x(n-k) = (b(n-k) - somatorio)/A(n-k,n-k);
+    endfor
 
-      for k=(n-i+1):n
-        soma = soma + A(n-i,k)*x(k);
-      endfor
-
-    x(n-i)=(b(n-i) - soma)/A(n-i,n-i);
-  endfor
 
   endfunction
