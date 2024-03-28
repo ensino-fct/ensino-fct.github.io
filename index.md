@@ -69,7 +69,7 @@ Arquivos dos slides usados em aula:
 - [CNA06 - Método de Euler](materiais/CNA06_MetodoEuler.pdf) 
 
 # Programas
-## Cálculo Numérico Avançado
+## Cálculo Numérico
 - [Arquivo main](materiais/main.m)
 - [Decomposição LU](materiais/LUdecomposition.m)
 - [Sistema Triangular Inferior](materiais/SistemaTriangularInferior.m)
