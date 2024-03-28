@@ -70,10 +70,15 @@ Arquivos dos slides usados em aula:
 
 # Programas
 ## Cálculo Numérico
-- [Arquivo main](materiais/main.m)
-- [Decomposição LU](materiais/LUdecomposition.m)
-- [Sistema Triangular Inferior](materiais/SistemaTriangularInferior.m)
-- [Sistema Triangular Superior](materiais/SistemaTriangularSuperior.m)
+- [Solução de Equações Algébricas: Método da Bissecção](materiais/Bisseccao.m)
+- [Solução de Equações Algébricas: Método da Iteração Linear](materiais/IteracaoLinear.m)
+- [Solução de Equações Algébricas: Método de Newton](materiais/MetodoNewton.m)
+- [Solução de Equações Algébricas: Método das Secantes](materiais/SecantesMethod.m)
+- [Solução de Sistemas Não Lineares: Método de Newton](materiais/MetodoNewtonSistemas.m)
+- [Solução de Sistemas Lineares: Arquivo main](materiais/main.m)
+- [Solução de Sistemas Lineares: Decomposição LU](materiais/LUdecomposition.m)
+- [Solução de Sistemas Lineares: Sistema Triangular Inferior](materiais/SistemaTriangularInferior.m)
+- [Solução de Sistemas Lineares: Sistema Triangular Superior](materiais/SistemaTriangularSuperior.m)
 
 ## Cálculo Numérico Avançado
 - [Arquivo main](materiais/main.m)
