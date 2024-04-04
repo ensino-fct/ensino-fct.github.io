@@ -113,16 +113,15 @@ Arquivos das listas de exercícios:
 # Monitorias
 ## Cálculo I
 
-Horários de atendimento:
+As monitorias acontencerão no Laboratório Isaac Newton (Sala 11, bloco 1) nos dias e horários especificados na Tabela abaixo:
 
 | Horários     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
 |--------------|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
-| 07:00--09:00 |         |          |        |          |          |        |
-| 09:00--11:00 |         |          |        |          |          |        |
-| 14:00--15:30 |         | Nathan (Sala 11, Disc. 1) | Nathan (Sala 11, Disc. 1) |          |          |       |
-| 16:00--18:00 |         |          |        |          |          |        |
-| 18:00--19:30 |         |          |        | Gabriel (Sala 24, Disc. 1) | Gabriel (Sala 24, Disc. 1) |       |
-| 20:00--22:00 |         |          |        |          |          |        |
+| 09:30--11:00 |               | Ana Flávia |           | Ana Flávia    |          |          |
+| 13:00--14:00 | Vitor Moreira |            |           | Vitor Moreira |          |          |
+| 16:00--18:00 |               |            |           |               |          |          |
+| 18:00--19:30 |               |            |           |               |          |          |
+| 20:00--22:00 |               |            |           |               |          |          |
 
 
 --- -->
