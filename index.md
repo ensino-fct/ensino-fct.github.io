@@ -106,6 +106,7 @@ Arquivos das listas de exercícios:
 ## Cálculo Numérico
 - [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
 - [CN02 - Resolução de equações algébricas](materiais/CN02_Lista_ResolucaoEquacoesAlgebricas.pdf)
+- [CN03 - Sistemas Lineares](materiais/CN03_Lista_SistemasLineares.pdf)
 
 ## Cálculo Numérico Avançado
 - [CNA01 - Decomposições Matriciais](materiais/CNA01_Lista_DecomposicoesMatriciais.pdf)
