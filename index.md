@@ -84,6 +84,7 @@ Arquivos dos slides usados em aula:
 - [Solução de Sistemas Lineares: Eliminação de Gauss (file.h)](materiais/EliminacaoGauss.h)
 - [Solução de Sistemas Lineares: File main (main.c)](materiais/main.c)
 - [Solução de Sistemas Lineares: Arquivo makefile (makefile)](materiais/makefile)
+- [Decomposição de Cholesky](materiais/Cholesky.m)
 
 ## Cálculo Numérico Avançado
 - [Arquivo main](materiais/main.m)
