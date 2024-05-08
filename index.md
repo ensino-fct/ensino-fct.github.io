@@ -25,7 +25,7 @@ Os planos de ensino estão divididos por disciplinas e cursos:
 
 
 # Calendário
-Atenção ao checar o calendário. Verifique que se o calendário corresondente à sua disciplina e curso.
+Atenção ao checar o calendário. Verifique se o calendário corresonden à sua disciplina e curso.
 ## Cálculo I
 - [Eng. Ambiental](https://docs.google.com/spreadsheets/d/1-OLb4F1MaYcXCKxslTXHwqO3mAi1h2TR82DYERmYUFk/edit?usp=sharing)
   
