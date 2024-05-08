@@ -84,6 +84,8 @@ Arquivos dos slides usados em aula:
 - [Arquivo makefile (makefile)](materiais/makefile)
 - [Decomposição de Cholesky](materiais/Cholesky.m)
 - [Matriz Inversa](materiais/MatrizInversa.m)
+- [Fórmula de Lagrange (file.c)](Programas_CalculoNumerico/InterpolacaoLagrange.c)
+- [Fórmula de Lagrange (file.h)](Programas_CalculoNumerico/InterpolacaoLagrange.h)
 
 ## Cálculo Numérico Avançado
 - [Arquivo main](materiais/main.m)
