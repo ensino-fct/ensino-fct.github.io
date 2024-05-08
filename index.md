@@ -38,9 +38,6 @@ Atenção ao checar o calendário. Verifique se o calendário corresonde a sua d
 ## Cálculo Numérico Avançado
 - [Matemática](https://docs.google.com/spreadsheets/d/1T_2eNy1mW-o7U_b4SCOwGr2zz3OBzprhR-U83gi-5W8/edit?usp=sharing)
   
-# Notas de Aula
-As Notas de Aula são o material principal para o acompanhamento da disciplina. 
-- Notas de Aula - Cálculo: Consultar livros de Cálculo 1, tais como Guidorizzi, Stewart e Thomas.
 
 # Slides
 Arquivos dos slides usados em aula:
