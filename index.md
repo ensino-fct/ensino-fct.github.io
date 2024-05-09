@@ -86,6 +86,7 @@ Arquivos dos slides usados em aula:
 - [Matriz Inversa](materiais/MatrizInversa.m)
 - [Fórmula de Lagrange (file.c)](Programas_CalculoNumerico/InterpolacaoLagrange.c)
 - [Fórmula de Lagrange (file.h)](Programas_CalculoNumerico/InterpolacaoLagrange.h)
+- [Interpolação de Lagrange (file.m)](Programas_CalculoNumerico/Interpolacao.m)
 
 ## Cálculo Numérico Avançado
 - [Arquivo main](materiais/main.m)
