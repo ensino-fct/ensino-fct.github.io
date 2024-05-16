@@ -103,8 +103,9 @@ Arquivos das listas de exercícios:
 - [CA03 - Aplicações das derivadas](materiais/CA03_Lista_AplicacoesDerivadas.pdf)
 
 ## Cálculo II
-- [CA04 - Integral Indefinida](materiais/Lista_Integral_Indefinida.pdf)
-- [CA05 - Integral Definida](materiais/CA05_Lista_Integral_Definida.pdf)
+- [CA201 - Primitivas](materiais/Lista_Integral_Indefinida.pdf)
+- [CA203 - Tecnicas de Integração](materiais/CA05_Lista_Integral_Definida.pdf)
+- [CA204 - Aplicações da Integral](materiais/CA204_Lista_AplicaoesIntegral.pdf)
   
 ## Cálculo Numérico
 - [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
