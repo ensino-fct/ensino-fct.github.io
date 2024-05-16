@@ -105,7 +105,7 @@ Arquivos das listas de exercícios:
 ## Cálculo II
 - [CA201 - Primitivas](materiais/Lista_Integral_Indefinida.pdf)
 - [CA203 - Tecnicas de Integração](materiais/CA05_Lista_Integral_Definida.pdf)
-- [CA204 - Aplicações da Integral](materiais/CA204_Lista_AplicaoesIntegral.pdf)
+- [CA204 - Aplicações da Integral](materiais/CA204_Lista_AplicacoesIntegral.pdf)                                             
   
 ## Cálculo Numérico
 - [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
