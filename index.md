@@ -87,6 +87,9 @@ Arquivos dos slides usados em aula:
 - [Fórmula de Lagrange (file.c)](Programas_CalculoNumerico/InterpolacaoLagrange.c)
 - [Fórmula de Lagrange (file.h)](Programas_CalculoNumerico/InterpolacaoLagrange.h)
 - [Interpolação de Lagrange (file.m)](Programas_CalculoNumerico/Interpolacao.m)
+- [Regra dos Trapézios (file.m)](Programas_CalculoNumerico/Trapezio.m)
+- [Regra 1/3 de Simpson (file.m)](Programas_CalculoNumerico/OneThirdSimpson.m)
+  
 
 ## Cálculo Numérico Avançado
 - [Arquivo main](materiais/main.m)
