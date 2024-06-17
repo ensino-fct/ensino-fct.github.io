@@ -117,6 +117,7 @@ Arquivos das listas de exercícios:
 - [CN03 - Sistemas Lineares](materiais/CN03_Lista_SistemasLineares.pdf)
 - [CN04 - Interpolação Polinomial](materiais/CN04_Lista_Interpolacao.pdf)
 - [CN05 - Integração Numérica](materiais/CN05_Lista_Integracao_Numerica.pdf)
+- [CN06 - Ajuste de curvas](materiais/CN06_Lista_Ajustes_Curvas.pdf)
 
 ## Cálculo Numérico Avançado
 - [CNA01 - Decomposições Matriciais](materiais/CNA01_Lista_DecomposicoesMatriciais.pdf)
