@@ -89,8 +89,8 @@ Arquivos dos slides usados em aula:
 - [Interpolação de Lagrange (file.m)](Programas_CalculoNumerico/Interpolacao.m)
 - [Regra dos Trapézios (file.m)](Programas_CalculoNumerico/Trapezio.m)
 - [Regra 1/3 de Simpson (file.m)](Programas_CalculoNumerico/OneThirdSimpson.m)
-- [Produto Escalar (file.m)](Programas_CalculoNumerico/ProdutoEscalar.m)
-- [Mínimos Quadrados (file.m)](Programas_CalculoNumerico/MinimosQuadrados.m)
+- [Produto Escalar (file.m)](materiais/ProdutoEscalar.m)
+- [Mínimos Quadrados (file.m)](materiais/MinimosQuadrados.m)
   
 
 ## Cálculo Numérico Avançado
