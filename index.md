@@ -23,9 +23,6 @@ Os planos de ensino estão divididos por disciplinas e cursos:
 ## Cálculo Numérico Avançado
 - [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
 
-## Análise Numérica
-- [Pós-MAC](AnaliseNumerica/Ementa_AnaliseNumerica.pdf)
-
 
 # Calendário
 Atenção ao checar o calendário. Verifique se o calendário corresonde a sua disciplina e curso.
@@ -40,9 +37,6 @@ Atenção ao checar o calendário. Verifique se o calendário corresonde a sua d
   
 ## Cálculo Numérico Avançado
 - [Matemática](https://docs.google.com/spreadsheets/d/1T_2eNy1mW-o7U_b4SCOwGr2zz3OBzprhR-U83gi-5W8/edit?usp=sharing)
-
-## Análise Numérica
-- [Pós-MAC](https://docs.google.com/spreadsheets/d/1T_2eNy1mW-o7U_b4SCOwGr2zz3OBzprhR-U83gi-5W8/edit?usp=sharing)
 
 
 # Slides
@@ -71,39 +65,6 @@ Arquivos dos slides usados em aula:
 - [CNA04 - Problema de Valor Inicial](materiais/CNA04_ProblemaValorInicial.pdf)
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_MetodoEuler.pdf) 
-
-## Análise Numérica
-- [AN01 - Solução de equações não-lineares](AnaliseNumerica/AN01_EquacoesNaoLineares.pdf)
-
-# Programas
-## Cálculo Numérico
-- [Método da Bissecção](materiais/Bisseccao.m)
-- [Método da Iteração Linear](materiais/IteracaoLinear.m)
-- [Método de Newton](materiais/MetodoNewton.m)
-- [Método das Secantes](materiais/SecantesMethod.m)
-- [Sistemas Não Lineares: Método de Newton](materiais/MetodoNewtonSistemas.m)
-- [Arquivo main](materiais/main.m)
-- [Decomposição LU](materiais/LUdecomposition.m)
-- [Sistema Triangular Inferior](materiais/SistemaTriangularInferior.m)
-- [Sistema Triangular Superior](materiais/SistemaTriangularSuperior.m)
-- [Eliminação de Gauss](materiais/EliminacaoGauss.m)
-- [Eliminação de Gauss (file.c)](materiais/EliminacaoGauss.c)
-- [Eliminação de Gauss (file.h)](materiais/EliminacaoGauss.h)
-- [File main (main.c)](materiais/main.c)
-- [Arquivo makefile (makefile)](materiais/makefile)
-- [Decomposição de Cholesky](materiais/Cholesky.m)
-- [Matriz Inversa](materiais/MatrizInversa.m)
-- [Regra dos Trapézios (file.m)](Programas_CalculoNumerico/Trapezio.m)
-- [Regra 1/3 de Simpson (file.m)](Programas_CalculoNumerico/OneThirdSimpson.m)
-- [Produto Escalar (file.m)](materiais/ProdutoEscalar.m)
-- [Mínimos Quadrados (file.m)](materiais/MinimosQuadrados.m)
-  
-
-## Cálculo Numérico Avançado
-- [Arquivo main](materiais/main.m)
-- [Decomposição LU](materiais/DecomposicaoLU.m)
-- [Sistema Triangular Inferior](materiais/SistemaTriangularInferior.m)
-- [Sistema Triangular Superior](materiais/SistemaTriangularSuperior.m)
 
 
 # Listas de Exercícios
@@ -135,8 +96,6 @@ Arquivos das listas de exercícios:
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_Lista_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_Lista_MetodoEuler.pdf)
 
-## Análise Numérica
-- [AN01 - Solução de Equações Não-Lineares](materiais/CNA01_Lista_DecomposicoesMatriciais.pdf)
 
 # Monitorias
 ## Cálculo I
@@ -145,7 +104,7 @@ As monitorias acontencerão no Laboratório Isaac Newton (Sala 11, bloco 1) nos 
 
 | Horários     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
 |--------------|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
-| 09:30--11:00 |        teste 2      |            |           |               |          |          |
+| 09:30--11:00 |               |            |           |               |          |          |
 | 13:00--14:00 |               |            |           |               |          |          |
 | 16:00--18:00 |               |            |           |               |          |          |
 | 18:00--19:30 |               |            |           |               |          |          |
