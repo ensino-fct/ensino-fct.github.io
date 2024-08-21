@@ -66,6 +66,9 @@ Arquivos dos slides usados em aula:
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_MetodoEuler.pdf) 
 
+# Programas
+- [CNA01 - Triangular Inferior](materiais/TriangularInferior.m)
+
 
 # Listas de Exercícios
 Arquivos das listas de exercícios:
