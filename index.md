@@ -95,6 +95,7 @@ Arquivos das listas de exercícios:
 - [CNA01 - Decomposições Matriciais](materiais/CNA01_Lista_DecomposicoesMatriciais.pdf)
 - [CNA02 - Métodos para Sistemas Lineares](materiais/CNA02_Lista_SistemasLineares.pdf)
 - [CNA03 - Cálculo de Autovalores e Autovetores](materiais/CNA03_Lista_AutovaloresAutovetores.pdf)
+- [Método QR - Cálculo de Autovalores e Autovetores](materiais/Lista_QR.pdf)
 - [CNA04 - Problema de Valor Inicial](materiais/CNA04_Lista_ProblemaValorInicial.pdf)
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_Lista_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_Lista_MetodoEuler.pdf)
