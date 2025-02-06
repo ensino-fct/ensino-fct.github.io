@@ -23,6 +23,9 @@ Os planos de ensino estão divididos por disciplinas e cursos:
 ## Cálculo Numérico Avançado
 - [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
 
+## Matemática Elementar I
+- [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
+
 
 # Calendário
 Atenção ao checar o calendário. Verifique se o calendário corresonde a sua disciplina e curso.
@@ -37,6 +40,9 @@ Atenção ao checar o calendário. Verifique se o calendário corresonde a sua d
   
 ## Cálculo Numérico Avançado
 - [Matemática](https://docs.google.com/spreadsheets/d/1PUzJQWOFznMNJZZlFEfGGYr_UjEEKAfh9llWTHXg5Tg/edit?usp=sharing)
+
+## Matemática Elementar I
+- [Matemática](https://docs.google.com/spreadsheets/d/18fhORTxKT1UU9GfIpKI4WToAZcOEOQ3p9aTKZQxQcog/edit?usp=sharing)
 
 
 # Slides
@@ -65,6 +71,9 @@ Arquivos dos slides usados em aula:
 - [CNA04 - Problema de Valor Inicial](materiais/CNA04_ProblemaValorInicial.pdf)
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_MetodoEuler.pdf) 
+
+## Matemática Elementar I
+
 
 # Programas
 - [CNA01 - Triangular Inferior](materiais/TriangularInferior.m)
@@ -99,6 +108,8 @@ Arquivos das listas de exercícios:
 - [CNA04 - Problema de Valor Inicial](materiais/CNA04_Lista_ProblemaValorInicial.pdf)
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_Lista_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_Lista_MetodoEuler.pdf)
+
+## Cálculo Numérico Avançado
 
 
 # Monitorias
