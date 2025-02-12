@@ -24,7 +24,7 @@ Os planos de ensino estão divididos por disciplinas e cursos:
 - [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
 
 ## Matemática Elementar I
-- [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
+- [Matemática](materiais/PlanoEnsino_MEI.pdf)
 
 
 # Calendário
