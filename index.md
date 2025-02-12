@@ -73,6 +73,9 @@ Arquivos dos slides usados em aula:
 - [CNA06 - Método de Euler](materiais/CNA06_MetodoEuler.pdf) 
 
 ## Matemática Elementar I
+- [Fundamentos de Matemática Elementar - Conjuntos e Funções]([https://docs.google.com/spreadsheets/d/18fhORTxKT1UU9GfIpKI4WToAZcOEOQ3p9aTKZQxQcog/edit?usp=sharing](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-1-.pdf))
+- [Fundamentos de Matemática Elementar - Logarítmos]([[https://docs.google.com/spreadsheets/d/18fhORTxKT1UU9GfIpKI4WToAZcOEOQ3p9aTKZQxQcog/edit?usp=sharing](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-1-.pdf)](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-2-.pdf))
+- [Fundamentos de Matemática Elementar - Trigonometria]([[[https://docs.google.com/spreadsheets/d/18fhORTxKT1UU9GfIpKI4WToAZcOEOQ3p9aTKZQxQcog/edit?usp=sharing](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-1-.pdf)](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-2-.pdf)](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-3.pdf))
 
 
 # Programas
