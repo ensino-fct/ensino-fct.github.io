@@ -96,6 +96,7 @@ Arquivos das listas de exercícios:
 - [CA205 - Sequências e Séries](materiais/CA205_Lista_SequenciasSeries.pdf)
   
 ## Cálculo Numérico
+- [Lista 1](materiais/Lista_1_Calculo_Numerico.pdf)
 - [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
 - [CN02 - Resolução de equações algébricas](materiais/CN02_Lista_ResolucaoEquacoesAlgebricas.pdf)
 - [CN03 - Sistemas Lineares](materiais/CN03_Lista_SistemasLineares.pdf)
