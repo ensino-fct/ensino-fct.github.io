@@ -115,6 +115,10 @@ Arquivos das listas de exercícios:
 
 ## Cálculo Numérico Avançado
 
+## Matemática Elementar
+- [Lista 1 - Conjuntos numéricos](materiais/Lista1_Resolucao.pdf)
+- [Lista 2 - Números reais, intervalos e indução finita](materiais/Lista_2_Conjuntos_Intervalos_Inducao.pdf)
+
 
 # Monitorias
 ## Cálculo I
