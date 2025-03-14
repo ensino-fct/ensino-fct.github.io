@@ -98,6 +98,7 @@ Arquivos das listas de exercícios:
 ## Cálculo Numérico
 - [Lista 1 - Método da bissecção e do ponto fixo](materiais/Lista_1_Calculo_Numerico.pdf)
 - [Lista 2 - Método de Newton](materiais/Lista_2_Metodo_de_Newton.pdf)
+- [Lista 3 - Métodos iterativos para equações não lineares](materiais/Lista_3_Metodos_Equacoes.pdf)
 - [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
 - [CN02 - Resolução de equações algébricas](materiais/CN02_Lista_ResolucaoEquacoesAlgebricas.pdf)
 - [CN03 - Sistemas Lineares](materiais/CN03_Lista_SistemasLineares.pdf)
