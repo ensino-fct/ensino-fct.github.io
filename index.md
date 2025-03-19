@@ -79,7 +79,8 @@ Arquivos dos slides usados em aula:
 
 
 # Programas
-- [CNA01 - Triangular Inferior](materiais/TriangularInferior.m)
+- [CNA01 - Triangular Inferior (octave)](materiais/TriangularInferior.m)
+- [CNA02 - Decomposição LU (python)](materiais/decomposicaoLU.py)
 
 
 # Listas de Exercícios
