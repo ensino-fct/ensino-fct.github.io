@@ -102,6 +102,7 @@ Arquivos das listas de exercícios:
 - [Lista 3 - Métodos iterativos para equações não lineares](materiais/Lista_3_Metodos_Equacoes.pdf)
 - [Lista 3 - Resolução](materiais/Lista3_Resolucao.pdf)
 - [Lista 4 - Decomposição LU e Eliminação de Gauss](materiais/Lista_4_DecomposicaoLU.pdf)
+- [Lista 4 - Resolução](materiais/Lista_4_Resolucao_DecomposicaoLU.pdf)
 - [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
 - [CN02 - Resolução de equações algébricas](materiais/CN02_Lista_ResolucaoEquacoesAlgebricas.pdf)
 - [CN03 - Sistemas Lineares](materiais/CN03_Lista_SistemasLineares.pdf)
