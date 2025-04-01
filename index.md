@@ -126,6 +126,7 @@ Arquivos das listas de exercícios:
 - [Lista 2 - Números reais, intervalos e indução finita](materiais/Lista_2_Conjuntos_Intervalos_Inducao.pdf)
 - [Lista 3 - Relações, funções e função afim](materiais/Lista_3_Relacoes.pdf)
 - [Lista 4 - Função do segundo grau](materiais/Lista_4_Função_do_segundo_grau.pdf)
+- [Lista 5 - Função modular, inversa, injeção, sobrejeção e bijeção](materiais/Lista_5_Funcao_modular.pdf)
 
 
 # Monitorias
