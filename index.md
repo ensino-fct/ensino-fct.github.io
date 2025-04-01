@@ -119,8 +119,6 @@ Arquivos das listas de exercícios:
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_Lista_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_Lista_MetodoEuler.pdf)
 
-## Cálculo Numérico Avançado
-
 ## Matemática Elementar
 - [Lista 1 - Conjuntos numéricos](materiais/Lista1_Resolucao.pdf)
 - [Lista 2 - Números reais, intervalos e indução finita](materiais/Lista_2_Conjuntos_Intervalos_Inducao.pdf)
