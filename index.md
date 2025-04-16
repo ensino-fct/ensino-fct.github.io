@@ -127,6 +127,7 @@ Arquivos das listas de exercícios:
 - [Lista 3 - Relações, funções e função afim](materiais/Lista_3_Relacoes.pdf)
 - [Lista 4 - Função do segundo grau](materiais/Lista_4_Função_do_segundo_grau.pdf)
 - [Lista 5 - Função modular](materiais/Lista_5_Funcao_modular.pdf)
+- [Lista 6 - Função Composta, injetora, sobrejetora, inversa](materiais/Lista_6_ME.pdf)
 
 
 # Monitorias
