@@ -105,7 +105,7 @@ Arquivos das listas de exercícios:
 - [Lista 4 - Resolução](materiais/Lista_4_Resolucao_DecomposicaoLU.pdf)
 - [Lista 5 - Interpolação: fórmula de Lagrange e erro](materiais/Lista_5_Interpolacao.pdf)
 - [Lista 6 - Revisão](materiais/Lista6_Revisao.pdf)
-- [Trabalho - Método dos Mínimos Quadrados](materiais/Trabalho_MinimosQuadrados.pdf)
+- [Trabalho - Método dos Mínimos Quadrados](materiais/Trabalho_MinimosQuadrados.dat)
 - [Dados: população de Presidente Prudente](materiais/Populacao_PresidentePrudente.pdf)
 - [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
 - [CN02 - Resolução de equações algébricas](materiais/CN02_Lista_ResolucaoEquacoesAlgebricas.pdf)
