@@ -133,6 +133,7 @@ Arquivos das listas de exercícios:
 - [Lista 5 - Função modular](materiais/Lista_5_Funcao_modular.pdf)
 - [Lista 6 - Função Composta, injetora, sobrejetora, inversa](materiais/Lista_6_ME.pdf)
 - [Lista 8 - Função exponencial](materiais/Lista_8_funcao_exponencial.pdf)
+- [Lista 9 - Logaritmos](materiais/Lista_9_Logaritmos.pdf)
 
 
 # Monitorias
