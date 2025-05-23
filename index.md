@@ -108,6 +108,7 @@ Arquivos das listas de exercícios:
 - [Dados: corrente vs tensão](materiais/Corrente_Tensao.dat)
 - [Trabalho - Método dos Mínimos Quadrados](materiais/Trabalho_MinimosQuadrados.pdf)
 - [Dados: população de Presidente Prudente](materiais/Populacao_PresidentePrudente.dat)
+- [Lista 8 - Métodos numéricos para PVI](materiais/Lista_8_Métodos_numéricos_para_EDO.pdf)
 - [CN01 - Conceitos Básicos](materiais/CN01_Lista_ConceitosBasicos.pdf)
 - [CN02 - Resolução de equações algébricas](materiais/CN02_Lista_ResolucaoEquacoesAlgebricas.pdf)
 - [CN03 - Sistemas Lineares](materiais/CN03_Lista_SistemasLineares.pdf)
