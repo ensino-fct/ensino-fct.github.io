@@ -135,6 +135,7 @@ Arquivos das listas de exercícios:
 - [Lista 7 - Potências](materiais/Lista_7_Potencias.pdf)
 - [Lista 8 - Função exponencial](materiais/Lista_8_funcao_exponencial.pdf)
 - [Lista 9 - Logaritmos](materiais/Lista_9_Logaritmos.pdf)
+- [Lista 10 - Funções logaritmicas](materiais/Lista_10_FuncoesLogaritmicas.pdf)
 
 
 # Monitorias
