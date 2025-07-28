@@ -138,18 +138,18 @@ Arquivos das listas de exercícios:
 - [Lista 10 - Funções logaritmicas](materiais/Lista_10_FuncoesLogaritmicas.pdf)
 
 
-# Monitorias
-## Cálculo I
+%# Monitorias
+%## Cálculo I
 
-As monitorias acontencerão no Laboratório Isaac Newton (Sala 11, bloco 1) nos dias e horários especificados na Tabela abaixo:
+%As monitorias acontencerão no Laboratório Isaac Newton (Sala 11, bloco 1) nos dias e horários especificados na Tabela abaixo:
 
-| Horários     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
-|--------------|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
-| 09:30--11:00 |               |            |           |               |          |          |
-| 13:00--14:00 |               |            |           |               |          |          |
-| 16:00--18:00 |               |            |           |               |          |          |
-| 18:00--19:30 |               |            |           |               |          |          |
-| 20:00--22:00 |               |            |           |               |          |          |
+%| Horários     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
+%|--------------|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
+%| 09:30--11:00 |               |            |           |               |          |          |
+%| 13:00--14:00 |               |            |           |               |          |          |
+%| 16:00--18:00 |               |            |           |               |          |          |
+%| 18:00--19:30 |               |            |           |               |          |          |
+%| 20:00--22:00 |               |            |           |               |          |          |
 
 
 --- -->
