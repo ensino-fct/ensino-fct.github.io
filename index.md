@@ -139,7 +139,9 @@ Arquivos das listas de exercícios:
 
 # Acompanhamento das atividades entregues
 ## Cálculo Numérico Avançado
-- [Matemática](https://docs.google.com/spreadsheets/d/1tYcVJRRRxkqLX7BtMVStwWrAGAVZDBy7OHoWRsMymhY/edit?usp=sharing)
+- [Atividades entregues](https://docs.google.com/spreadsheets/d/1tYcVJRRRxkqLX7BtMVStwWrAGAVZDBy7OHoWRsMymhY/edit?usp=sharing)
+  
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
+
 
