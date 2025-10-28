@@ -4,7 +4,7 @@ show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#A5D6A7"          # Verde escuro (início do cabeçalho)
-  gradient_left: "#6A1B9A"   # Roxo médio
+  gradient_left: "#ff69b4"   # Roxo médio
   gradient_right: "#8E24AA"  # Roxo mais claro
 logo_url: https://posmac-fct.github.io/assets/images/mario.png
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
@@ -14,6 +14,7 @@ buttons:
   zip_hide: false
   tar_hide: true
   github_hide: true
+
 
 
 
