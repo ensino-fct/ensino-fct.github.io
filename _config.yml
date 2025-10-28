@@ -3,7 +3,7 @@ description: "Cálculo | Cálculo Numérico Avançado | Faculdade de Ciências e
 show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
 color:
-  header: "#4A148C"          # Roxo escuro (você pode mudar para outro tom)
+  header: "#004D40"          # Verde escuro (início do cabeçalho)
   gradient_left: "#6A1B9A"   # Roxo médio
   gradient_right: "#8E24AA"  # Roxo mais claro
 logo_url: https://posmac-fct.github.io/assets/images/mario.png
@@ -14,4 +14,5 @@ buttons:
   zip_hide: false
   tar_hide: true
   github_hide: true
+
 
