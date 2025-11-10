@@ -137,6 +137,9 @@ Arquivos das listas de exercícios:
 - [Lista 9 - Logaritmos](materiais/Lista_9_Logaritmos.pdf)
 - [Lista 10 - Funções logaritmicas](materiais/Lista_10_FuncoesLogaritmicas.pdf)
 
+# Trabalhos
+- [Grupos para seminário de CNA 2025](https://docs.google.com/spreadsheets/d/13nNKDGI6R6SsiwxvHXe49Q1xBM3qpAo30R5VG-aS87M/edit?usp=sharing)
+
 # Livros
 - [Finite Difference Methods for Ordinary and Partial Differential Equations](https://tevza.org/home/course/modelling-II_2016/books/Leveque%20-%20Finite%20Difference%20Methods.pdf)
 
@@ -146,6 +149,7 @@ Arquivos das listas de exercícios:
   
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
+
 
 
 
