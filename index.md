@@ -36,7 +36,7 @@ Atenção ao checar o calendário. Verifique se o calendário corresonde a sua d
 - [Computação](https://docs.google.com/spreadsheets/d/1lQmVlplkcBpheGpbFPeq_Gdm-xMugR9FM-B_sVHDhd8/edit?usp=sharing)
   
 ## Cálculo Numérico
-- [Computação](https://docs.google.com/spreadsheets/d/1B2lAA0rlwt_po8Bm2QsSmVnt-_1g7HMgHZfXjdfU7p4/edit?usp=sharing)
+- [Matemática](https://docs.google.com/spreadsheets/d/1tMz82TrKQGNhu59bSDDQv0z_sLC1TgLKaS6tbUVSSSM/edit?usp=sharing)
   
 ## Cálculo Numérico Avançado
 - [Matemática](https://docs.google.com/spreadsheets/d/1PUzJQWOFznMNJZZlFEfGGYr_UjEEKAfh9llWTHXg5Tg/edit?usp=sharing)
