@@ -146,6 +146,8 @@ Arquivos das listas de exercícios:
 
 
 # Acompanhamento das atividades entregues
+## Cálculo Numérico
+- [Atividades entregues](https://docs.google.com/spreadsheets/d/1MFg-Y-W-GSzF0r0nWJ8Ye7hVn5V7R8V4X4YPc8ZOCEU/edit?usp=sharing)
 ## Cálculo Numérico Avançado
 - [Atividades entregues](https://docs.google.com/spreadsheets/d/1tYcVJRRRxkqLX7BtMVStwWrAGAVZDBy7OHoWRsMymhY/edit?usp=sharing)
   
