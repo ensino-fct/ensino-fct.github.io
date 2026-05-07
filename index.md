@@ -142,6 +142,8 @@ Arquivos das listas de exercícios:
 
 # Livros
 - [Finite Difference Methods for Ordinary and Partial Differential Equations](https://tevza.org/home/course/modelling-II_2016/books/Leveque%20-%20Finite%20Difference%20Methods.pdf)
+- [Cálculo Numérico - Neide Bertoldi Franco]([https://tevza.org/home/course/modelling-II_2016/books/Leveque%20-%20Finite%20Difference%20Methods.pdf](http://galdino.pbworks.com/w/file/fetch/134978082/Livro_Neide.pdf))
+
 
 # Acompanhamento das atividades entregues
 ## Cálculo Numérico Avançado
