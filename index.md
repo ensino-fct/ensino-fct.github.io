@@ -133,7 +133,7 @@ Arquivos das listas de exercícios:
 ## [Cálculo Numérico Avançado](https://docs.google.com/spreadsheets/d/13nNKDGI6R6SsiwxvHXe49Q1xBM3qpAo30R5VG-aS87M/edit?usp=sharing)
 
 # Livros
-## [Álgebra Linear e Aplicações - Callioli](materiais/AlbebraLinearCallioli.pdf)
+## [Álgebra Linear e Aplicações - Callioli](materiais/AlgebraLinearCallioli.pdf)
 ## [Finite Difference Methods for Ordinary and Partial Differential Equations](https://tevza.org/home/course/modelling-II_2016/books/Leveque%20-%20Finite%20Difference%20Methods.pdf)
 ## [Cálculo Numérico - Neide Bertoldi Franco](http://galdino.pbworks.com/w/file/fetch/134978082/Livro_Neide.pdf)
 
