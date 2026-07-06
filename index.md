@@ -130,7 +130,7 @@ Arquivos das listas de exercícios:
 - [Lista 10 - Funções logaritmicas](materiais/Lista_10_FuncoesLogaritmicas.pdf)
 
 # Trabalhos
-- [Grupos para seminário de CNA 2025](https://docs.google.com/spreadsheets/d/13nNKDGI6R6SsiwxvHXe49Q1xBM3qpAo30R5VG-aS87M/edit?usp=sharing)
+## [Cálculo Numérico Avançado](https://docs.google.com/spreadsheets/d/13nNKDGI6R6SsiwxvHXe49Q1xBM3qpAo30R5VG-aS87M/edit?usp=sharing)
 
 # Livros
 ## [Álgebra Linear e Aplicações - Callioli](materiais/AlbebraLinearCallioli.pdf)
@@ -139,10 +139,8 @@ Arquivos das listas de exercícios:
 
 
 # Acompanhamento das atividades entregues
-## Cálculo Numérico
-- [Atividades entregues](https://docs.google.com/spreadsheets/d/1MFg-Y-W-GSzF0r0nWJ8Ye7hVn5V7R8V4X4YPc8ZOCEU/edit?usp=sharing)
-## Cálculo Numérico Avançado
-- [Atividades entregues](https://docs.google.com/spreadsheets/d/1tYcVJRRRxkqLX7BtMVStwWrAGAVZDBy7OHoWRsMymhY/edit?usp=sharing)
+## [Cálculo Numérico](https://docs.google.com/spreadsheets/d/1MFg-Y-W-GSzF0r0nWJ8Ye7hVn5V7R8V4X4YPc8ZOCEU/edit?usp=sharing)
+## [Cálculo Numérico Avançado](https://docs.google.com/spreadsheets/d/1tYcVJRRRxkqLX7BtMVStwWrAGAVZDBy7OHoWRsMymhY/edit?usp=sharing)
   
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
