@@ -10,26 +10,17 @@ Os planos de ensino estão divididos por disciplinas e cursos:
 
 ## [Álgebra Linear I](materiais/PlanoEnsino_AlgebraLinear.pdf)
 
-## Cálculo I
-  - [Engenharia Ambiental](materiais/PlanoEnsinoCalculo1EngAmb.pdf)
-  - [Estatística](materiais/Plano_Ensino_CalculoI_Estatistica.pdf)
-  - [Química](materiais/Plano_Ensino_CalculoI_LicQuimica.pdf)
-  - [Física](materiais/Plano_Ensino_CalculoI_LicFisica.pdf)
+## [Cálculo I](materiais/Plano_Ensino_CalculoI_LicFisica.pdf)
   
-## Cálculo II
-- [Computação](materiais/PlanoEnsinoCalculo2Computacao.pdf)
+## [Cálculo II](materiais/PlanoEnsinoCalculo2Computacao.pdf)
 
-## Cálculo III
-- [Matemática](materiais/PlanoEnsinoCalculo3.pdf)
+## [Cálculo III](materiais/PlanoEnsinoCalculo3.pdf)
   
-## Cálculo Numérico
-- [Computação](materiais/PlanoEnsino_CN.pdf)
+## [Cálculo Numérico](materiais/PlanoEnsino_CN.pdf)
   
-## Cálculo Numérico Avançado
-- [Matemática](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
+## [Cálculo Numérico Avançado](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
 
-## Matemática Elementar I
-- [Matemática](materiais/PlanoEnsino_MEI.pdf)
+## [Matemática Elementar I](materiais/PlanoEnsino_MEI.pdf)
 
 
 # Calendário
