@@ -133,8 +133,9 @@ Arquivos das listas de exercícios:
 - [Grupos para seminário de CNA 2025](https://docs.google.com/spreadsheets/d/13nNKDGI6R6SsiwxvHXe49Q1xBM3qpAo30R5VG-aS87M/edit?usp=sharing)
 
 # Livros
-- [Finite Difference Methods for Ordinary and Partial Differential Equations](https://tevza.org/home/course/modelling-II_2016/books/Leveque%20-%20Finite%20Difference%20Methods.pdf)
-- [Cálculo Numérico - Neide Bertoldi Franco](http://galdino.pbworks.com/w/file/fetch/134978082/Livro_Neide.pdf)
+## [Álgebra Linear e Aplicações - Callioli](materiais/AlbebraLinearCallioli.pdf)
+## [Finite Difference Methods for Ordinary and Partial Differential Equations](https://tevza.org/home/course/modelling-II_2016/books/Leveque%20-%20Finite%20Difference%20Methods.pdf)
+## [Cálculo Numérico - Neide Bertoldi Franco](http://galdino.pbworks.com/w/file/fetch/134978082/Livro_Neide.pdf)
 
 
 # Acompanhamento das atividades entregues
