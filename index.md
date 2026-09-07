@@ -25,9 +25,11 @@ Os planos de ensino estão divididos por disciplinas e cursos:
 
 # Calendário
 Atenção ao checar o calendário. Verifique se o calendário corresonde a sua disciplina e curso.
-## [Cálculo I](https://docs.google.com/spreadsheets/d/1-OLb4F1MaYcXCKxslTXHwqO3mAi1h2TR82DYERmYUFk/edit?usp=sharing)
+## [Cálculo 1](https://docs.google.com/spreadsheets/d/1-OLb4F1MaYcXCKxslTXHwqO3mAi1h2TR82DYERmYUFk/edit?usp=sharing)
   
-## [Cálculo II](https://docs.google.com/spreadsheets/d/1lQmVlplkcBpheGpbFPeq_Gdm-xMugR9FM-B_sVHDhd8/edit?usp=sharing)
+## [Cálculo 2](https://docs.google.com/spreadsheets/d/1lQmVlplkcBpheGpbFPeq_Gdm-xMugR9FM-B_sVHDhd8/edit?usp=sharing)
+
+## [Cálculo 3](https://docs.google.com/spreadsheets/d/1CNzCDNc0XpKWnbXCapuTGCNMtlu11D-UF3W4P-OLjJI/edit?usp=sharing)
   
 ## [Cálculo Numérico](https://docs.google.com/spreadsheets/d/1tMz82TrKQGNhu59bSDDQv0z_sLC1TgLKaS6tbUVSSSM/edit?usp=sharing)
   
