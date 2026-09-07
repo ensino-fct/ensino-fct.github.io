@@ -8,19 +8,19 @@ Email para contato: [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br).
 # Planos de Ensino
 Os planos de ensino estão divididos por disciplinas e cursos:
 
-## [Álgebra Linear I](materiais/PlanoEnsino_AlgebraLinear.pdf)
+## [Álgebra Linear 1](materiais/PlanoEnsino_AlgebraLinear.pdf)
 
-## [Cálculo I](materiais/Plano_Ensino_CalculoI_LicFisica.pdf)
+## [Cálculo 1](materiais/Plano_Ensino_CalculoI_LicFisica.pdf)
   
-## [Cálculo II](materiais/PlanoEnsinoCalculo2Computacao.pdf)
+## [Cálculo 2](materiais/PlanoEnsinoCalculo2Computacao.pdf)
 
-## [Cálculo III](materiais/PlanoEnsinoCalculo3.pdf)
+## [Cálculo 3](materiais/PlanoEnsinoCalculo3.pdf)
   
 ## [Cálculo Numérico](materiais/PlanoEnsino_CN.pdf)
   
 ## [Cálculo Numérico Avançado](materiais/Plano_Ensino_CalculoNumericoAvancado.pdf)
 
-## [Matemática Elementar I](materiais/PlanoEnsino_MEI.pdf)
+## [Matemática Elementar 1](materiais/PlanoEnsino_MEI.pdf)
 
 
 # Calendário
@@ -35,19 +35,19 @@ Atenção ao checar o calendário. Verifique se o calendário corresonde a sua d
   
 ## [Cálculo Numérico Avançado](https://docs.google.com/spreadsheets/d/1PUzJQWOFznMNJZZlFEfGGYr_UjEEKAfh9llWTHXg5Tg/edit?usp=sharing)
 
-## [Matemática Elementar I](https://docs.google.com/spreadsheets/d/18fhORTxKT1UU9GfIpKI4WToAZcOEOQ3p9aTKZQxQcog/edit?usp=sharing)
+## [Matemática Elementar 1](https://docs.google.com/spreadsheets/d/18fhORTxKT1UU9GfIpKI4WToAZcOEOQ3p9aTKZQxQcog/edit?usp=sharing)
 
 
 # Slides
 Arquivos dos slides usados em aula:
-## Cálculo I
+## Cálculo 1
 - [CA01 - Limite e Continuidade](materiais/CA01_Limite_Continuidade.pdf)
 - [CA02 - Funções Logaritmicas e Exponenciais](materiais/CA02_Funcoes_Logaritmicas_Exponenciais.pdf)
 - [CA03 - Derivada](materiais/CA02_Derivadas.pdf)
 - [CA04 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
 
   
-## Cálculo II
+## Cálculo 2
 - [CA05 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
 - [CA06 - Integral Definida](materiais/CA05_Integral_Definida.pdf)
   
@@ -66,7 +66,7 @@ Arquivos dos slides usados em aula:
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_MetodoEuler.pdf) 
 
-## Matemática Elementar I
+## Matemática Elementar 1
 - [Fundamentos de Matemática Elementar - Conjuntos e Funções](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-1-.pdf)
 - [Fundamentos de Matemática Elementar - Logarítmos](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-2-.pdf)
 - [Fundamentos de Matemática Elementar - Trigonometria](https://barbosadejesu.wordpress.com/wp-content/uploads/2021/09/fundamentos-da-matematica-elementar-3.pdf)
@@ -79,12 +79,12 @@ Arquivos dos slides usados em aula:
 
 # Listas de Exercícios
 Arquivos das listas de exercícios:
-## Cálculo I
+## Cálculo 1
 - [CA01 - Limite e Continuidade](materiais/CA01_Lista_Limite_Continuidade.pdf)
 - [CA02 - Derivadas](materiais/CA02_Lista_Derivadas.pdf)
 - [CA03 - Aplicações das derivadas](materiais/CA03_Lista_AplicacoesDerivadas.pdf)
 
-## Cálculo II
+## Cálculo 2
 - [CA201 - Primitivas](materiais/Lista_Integral_Indefinida.pdf)
 - [CA203 - Tecnicas de Integração](materiais/CA05_Lista_Integral_Definida.pdf)
 - [CA204 - Aplicações da Integral](materiais/CA204_Lista_AplicacoesIntegral.pdf)
@@ -119,7 +119,7 @@ Arquivos das listas de exercícios:
 - [CNA05 - Problema de Valor de Contorno](materiais/CNA05_Lista_ProblemaValorContorno.pdf)
 - [CNA06 - Método de Euler](materiais/CNA06_Lista_MetodoEuler.pdf)
 
-## Matemática Elementar
+## Matemática Elementar 1
 - [Lista 1 - Conjuntos numéricos](materiais/Lista1_Resolucao.pdf)
 - [Lista 2 - Números reais, intervalos e indução finita](materiais/Lista_2_Conjuntos_Intervalos_Inducao.pdf)
 - [Lista 3 - Relações, funções e função afim](materiais/Lista_3_Relacoes.pdf)
